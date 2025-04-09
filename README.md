@@ -10,4 +10,5 @@ Currently in progress:
 * Add links to github repositories.
 * Publish website with Github Pages.
 * Add navigation bar for different sections.
-* Make selecting different sections with navbar seamless so it doesn't reload the page (use Ajax).
+* Make selecting different sections with navbar seamless, so it doesn't reload the page (use Ajax).
+* Perhaps add some spicy animations for cool effects.
