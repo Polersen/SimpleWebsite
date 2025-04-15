@@ -11,6 +11,8 @@ Currently in progress:
 * Publish website with Github Pages. -Done
 * Add navigation bar for different sections.
 * Make selecting different sections with navbar seamless, so it doesn't reload the page (use Ajax).
-* Add animations or transitions for smoothness.
-* Add a personal favicon.
-* Add cards.
+* Add animations or transitions for a smoother experiences where it fits.
+* Add a personal favicon. -Done
+* Add cards for the projects.
+* Add carousel with images of code and ui from the projects.
+* Update index.html and make it look modern and attractive.
