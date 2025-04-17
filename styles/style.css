@@ -26,14 +26,54 @@ section {
 
 h2 { color: #333; }
 
-header, footer {
+header {
+    position: relative;
+    height: 150px;
+    background: #4c3737;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 1em;
+}
+
+.header-content {
+    padding: 1em;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.navbar {
+    background-color: #5c4033;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navbar li {
+    margin: 0;
+}
+
+.navbar li a {
+    display: block;
+    padding: 0.5em;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar li a:hover {
+    background-color: #2a1e1e;
+}
+
+footer {
     text-align: center;
     padding: 1em;
     background: #4c3737;
     color: white;
-}
-
-a {
-    color: #2153d3;
-    text-decoration: none;
 }

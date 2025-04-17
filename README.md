@@ -16,3 +16,4 @@ Currently in progress:
 * Add cards for the projects.
 * Add carousel with images of code and ui from the projects.
 * Update index.html and make it look modern and attractive.
+* Create a layout file.
