@@ -9,7 +9,7 @@ Currently in progress:
 * Populate index.html with necessary information. -Done
 * Add links to github repositories. -Done
 * Publish website with Github Pages. -Done
-* Add navigation bar for different sections.
+* Add navigation bar for different sections. -Done
 * Make selecting different sections with navbar seamless, so it doesn't reload the page (use Ajax).
 * Add animations or transitions for a smoother experiences where it fits.
 * Add a personal favicon. -Done
